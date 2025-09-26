@@ -55,4 +55,4 @@ Power BI – for data visualization and dashboard design
 
 Kaggle Dataset – for sales data
 ScreenShot/ Demo
-Example  : (https://github.com/mayurisune/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Report.png)
+Example  : ( https://github.com/mayurisune/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Report.png )
