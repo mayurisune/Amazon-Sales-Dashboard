@@ -54,4 +54,5 @@ Top States: Delhi and Meghalaya lead in order shipments
 Power BI – for data visualization and dashboard design
 
 Kaggle Dataset – for sales data
-Example  : https://github.com/mayurisune/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Report.png
+ScreenShot/ Demo
+Example  : (https://github.com/mayurisune/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Report.png)
